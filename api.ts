@@ -3,7 +3,7 @@ import helmet from "helmet";
 import * as dotenv from "dotenv";
 
 import { TestKeys, getTestNames, getTest, getQuestions } from "./src/processor"
-import { QueryParams, Test } from "./src/test";
+import { QueryParams } from "./src/test";
 
 const app = express();
 
@@ -23,6 +23,11 @@ app.use(helmet())
 app.use((req, _res, next) => { // Logging requests
         console.log("[" + Date().toLocaleString() + "]:" + " Requested " + req.originalUrl + " by " + req.ip);
         next()
+})
+
+app.use((_req, res, next) => {
+	res.set('Access-Control-Allow-Origin', '*');
+	next()
 })
 
 ////////////////////////////////////////

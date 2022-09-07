@@ -1,0 +1,185 @@
+{
+    "Bosanski":[
+        {
+            "type":"zaokruzi",
+            "question":"Poznati srednjovjekovni bosanski pisani spomenici su?\n",
+            "answers":[
+                {
+                    "answer":"natpisi na ste\u0107cima\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"romani\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"balade\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"pjesme\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"da-ne",
+            "question":"Hektor je lik iz epa \"Ilijada\"?\n",
+            "answers":[
+                {
+                    "answer":"Da",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Ne",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"dopuni",
+            "question":"Kakva je po sastavu re\u010denica \"Kad uredi\u0161 zapisnik, donesi ga na potpis.\"? {{{1}}}\n",
+            "answers":{
+                "1":[
+                    "prosta\n",
+                    "prosto-pro\u0161irena\n",
+                    "pro\u0161irena\n"
+                ]
+            }
+        }
+    ],
+    "Biologija":[
+        {
+            "type":"zaokruzi",
+            "question":"\u0106elija je?\n",
+            "answers":[
+                {
+                    "answer":"Osnovna jedinica svih \u017eivih bi\u0107a\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Osnova tkiva\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Soba\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"Zatvor\n",
+                    "isCorrect":false
+                }
+            ]
+        }
+    ],
+    "sociologija":[
+        {
+            "type":"zaokruzi",
+            "question":"Belgijski sociolog Eugen Dupreel i ameri\u010dki sociolozi Delbert Miler i Wiliam Form sociologiju odre\u0111uju kao nauku koja za predmet izu\u010davanja ima:\n",
+            "answers":[
+                {
+                    "answer":"Dru\u0161tvene grupe\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Dru\u0161tvene sisteme\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"Dru\u0161tvene strukture\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"zaokruzi",
+            "question":"Klasifikaciju posebnih sociologija je izvr\u0161io:\n",
+            "answers":[
+                {
+                    "answer":"Georges Gurvitch\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Auguste Comte\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"James Frazer\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"zaokruzi",
+            "question":"Projekt dr\u017eave utemeljen na privatnom vlasni\u0161tvu izgra\u0111uje:\n",
+            "answers":[
+                {
+                    "answer":"Aristotel\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Pitagora\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"Zenon\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"zaokruzi",
+            "question":"Platon uo\u010dava klasnu strukturu anti\u010dkog dru\u0161tva na:\n",
+            "answers":[
+                {
+                    "answer":"Filozofe, vojnike i proizvo\u0111a\u010de\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Robove\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"Veoma imu\u0107ne, srednje imu\u0107ne i krajnje neimu\u0107ne\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"zaokruzi",
+            "question":"Protivnici dru\u0161tva koje egzistira na robovima su:\n",
+            "answers":[
+                {
+                    "answer":"Predstavnici stoi\u010dke \u0161kole\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"Predstvanici epikurejske \u0161kole\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"Sofisti\n",
+                    "isCorrect":false
+                }
+            ]
+        },
+        {
+            "type":"zaokruzi",
+            "question":"Augustin Aurelije je poznat po spisu:\n",
+            "answers":[
+                {
+                    "answer":"\"O dr\u017eavi Bo\u017eijoj\"\n",
+                    "isCorrect":true
+                },
+                {
+                    "answer":"\"O kraljevskoj vladavini\"\n",
+                    "isCorrect":false
+                },
+                {
+                    "answer":"\"O odnosu Crkve i dr\u017eave\"\n",
+                    "isCorrect":false
+                }
+            ]
+        }
+    ]
+}
